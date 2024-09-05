@@ -9,8 +9,6 @@ body{
   background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
   background-repeat: no-repeat, no-repeat;
   background-position: -60% -52vh, 50vw 44vh;
-  height: 100vh;
-  width: 100vw;
   position: fixed;  
 }
 img{
